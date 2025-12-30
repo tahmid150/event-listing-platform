@@ -21,3 +21,5 @@ A full-stack Event Listing Platform built using the MERN stack.
 ## Live URLs
 Frontend: https://event-listing-platform-xzsq.vercel.app/
 Backend: https://event-listing-platform-flame.vercel.app/ (if you see "crashed", refresh again)
+
+## If in vercel, Login registration shows problem, please, Run the project on your local Machine using command: npm run dev
